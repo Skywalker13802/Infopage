@@ -1,0 +1,28 @@
+
+
+body {
+  background-color: #57c5b6;
+
+}
+hr {
+  background-color: white;
+  height: 0px;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h3 {
+  text-align: center;
+
+
+  color: palevioletred;
+}
+div {
+  color: yellow;
+}
+table {
+
+  border-spacing: 10px; border-collapse: separate;
+}
+
